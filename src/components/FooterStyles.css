@@ -45,6 +45,7 @@ h4{
 
 p{
     font-size: 1.2rem;
+    text-align: left;
 }
 
 @media screen and (max-width: 640px) {

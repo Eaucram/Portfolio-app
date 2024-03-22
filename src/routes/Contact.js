@@ -8,7 +8,7 @@ const Contact = () => {
   return (
   <div>
     <Navbar/>
-    <HeroImg2 heading="CONTACT." text="contactez moi si vous voulez en apprendre plus."/>
+    <HeroImg2 heading="CONTACT" text="contactez moi si vous voulez en apprendre plus."/>
     <Footer/>
   </div>
   );

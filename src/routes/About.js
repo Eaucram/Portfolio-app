@@ -10,7 +10,7 @@ const About = () => {
   return (
     <div>
       <Navbar/>
-      <HeroImg2 heading="A PROPOS DE MOI." text="Je suis un étudiant en première année de cycle préparatoire à l'ENSIBS à Lorient."/>
+      <HeroImg2 heading="A PROPOS DE MOI" text="Je suis un étudiant en première année de cycle préparatoire à l'ENSIBS à Lorient."/>
       <AboutContent />
       <Footer/>
     </div>

@@ -32,6 +32,10 @@
     text-align: justify;
 }
 
+.pro-details p{
+    text-align: justify;
+}
+
 .pro-btn{
     display: flex;
     justify-content: space-between;
